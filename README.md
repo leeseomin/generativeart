@@ -1,7 +1,7 @@
 # generativeart
 
-
-
+### install 
+```
 sudo apt-get update  
 
 sudo apt-get -y upgrade 
@@ -27,7 +27,7 @@ go version
 
 go get github.com/jdxyw/generativeart
 
-
+```
 
 
 
