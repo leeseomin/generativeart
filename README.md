@@ -30,6 +30,12 @@ go get github.com/jdxyw/generativeart
 
 ```
 
+### test (random)
+
+
+
+
+
 
 
 [![Go](https://github.com/jdxyw/generativeart/actions/workflows/go.yml/badge.svg)](https://github.com/jdxyw/generativeart/actions/workflows/go.yml)
