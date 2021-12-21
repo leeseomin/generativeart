@@ -32,8 +32,12 @@ go get github.com/jdxyw/generativeart
 
 ### test (random)
 
+```
+cd example
 
+go run random.go
 
+```
 
 
 
