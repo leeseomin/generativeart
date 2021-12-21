@@ -1,5 +1,36 @@
 # generativeart
 
+
+
+sudo apt-get update  
+
+sudo apt-get -y upgrade 
+
+wget https://dl.google.com/go/go1.16.4.linux-amd64.tar.gz 
+
+sudo tar -xvf go1.16.4.linux-amd64.tar.gz   
+
+
+sudo mv go /usr/local  
+
+export GOROOT=/usr/local/go
+
+export GOPATH=$HOME/Projects/Proj1 
+
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH 
+
+
+go version 
+
+
+
+
+go get github.com/jdxyw/generativeart
+
+
+
+
+
 [![Go](https://github.com/jdxyw/generativeart/actions/workflows/go.yml/badge.svg)](https://github.com/jdxyw/generativeart/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jdxyw/generativeart)](https://goreportcard.com/report/github.com/jdxyw/generativeart)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jdxyw/generativeart/master/LICENSE)
