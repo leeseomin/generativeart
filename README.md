@@ -37,6 +37,9 @@ cd example
 
 go run random.go
 
+
+go run ran5.go
+
 ```
 
 
